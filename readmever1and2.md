@@ -1,0 +1,1 @@
+Version 1 and Version 2 are the initial attemps at the genetic linkage simulator, although these run the final version presents the capabillities better.
